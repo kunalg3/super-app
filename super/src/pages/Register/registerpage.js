@@ -1,12 +1,12 @@
 import React from 'react'
-import register from '../../components/register/register'
+import Register from '../../components/Register/Register'
 
-function registerpage() {
+function Registerpage() {
   return (
     <div>
-      <register/>
+      <Register/>
     </div>
   )
 }
 
-export default registerpage
+export default Registerpage
